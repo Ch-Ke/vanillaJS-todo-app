@@ -1,1 +1,1 @@
-# Simple to do list app written in vanilla js
+to do list app written in vanilla js
