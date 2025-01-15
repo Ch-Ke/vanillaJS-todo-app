@@ -45,7 +45,7 @@ body{
   
 }
 
-.completed{
+li.completed .task-text{
   text-decoration: line-through;
   color: var(--background-color);
 }
